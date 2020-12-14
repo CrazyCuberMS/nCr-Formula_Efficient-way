@@ -1,0 +1,1 @@
+# nCr-Formula_Efficient-way
