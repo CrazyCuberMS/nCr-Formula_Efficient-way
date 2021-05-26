@@ -1,12 +1,11 @@
-# nCr-Formula_Efficient-way
-
- #include <bits/stdc++.h>
+# nCr-Formula_Efficient-way #
+```C++
+#include <bits/stdc++.h>
 using namespace std;
 
 // Function to find the nCr
 void printNcR(int n, int r)
 {
-
     // p holds the value of n*(n-1)*(n-2)...,
     // k holds the value of r*(r-1)...
     long long p = 1, k = 1;
@@ -57,3 +56,4 @@ int main()
 
     return 0;
 }
+```
